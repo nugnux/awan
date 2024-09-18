@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.title('FISIKA KOMPUTASI AWAN')
 st.write('Situs Official Puan')
 
 print('Halo')
