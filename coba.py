@@ -4,7 +4,7 @@ st.title('FISIKA KOMPUTASI AWAN')
 st.write('Situs Official Puan')
 st.latex(r''' \int_a^b \frac{\partial^2 y}{\partial x^2}dx''')
 st.page_link("http://www.google.com", label="Google", icon="🌎")
-st.page_link("http://www.nugroho.xyz", label="Nug", icon="🌎")
+st.page_link("https://nugroho.xyz/web-python-streamlit/", label="Nug", icon="🌎")
 
 print('Halo')
 print('Tadaa...')
