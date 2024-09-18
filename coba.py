@@ -5,10 +5,5 @@ st.write('Situs Official Puan')
 print('Halo')
 print('Tadaa...')
 
-
-
-
-
-
 for i in range (10):
-  pass
+  st.write('Saya tidak akan nakal lagi')
